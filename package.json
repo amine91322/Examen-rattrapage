@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/amine91322/Examen-rattrapage/issues"
   },
-  "homepage": "https://github.com/amine91322/Examen-rattrapage#readme"
+  "homepage": "https://github.com/amine91322/Examen-rattrapage#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
 }
