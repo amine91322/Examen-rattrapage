@@ -1,0 +1,19 @@
+{
+  "name": "examen-rattrapage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amine91322/Examen-rattrapage.git"
+  },
+  "author": "EL FALLAH Amine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amine91322/Examen-rattrapage/issues"
+  },
+  "homepage": "https://github.com/amine91322/Examen-rattrapage#readme"
+}
